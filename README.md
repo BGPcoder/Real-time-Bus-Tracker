@@ -1,5 +1,7 @@
 # Real-time-Bus-Tracker
-This is an exercise from MIT Coding Course for Womxn, Module 9. This allows the user to track real-time the buses going from MIT campus to Harvard campus. 
+This is an exercise from MIT Coding Course for Womxn, Module 9. This allows the user to track real-time the buses going from MIT campus to Harvard campus.
+
+https://bgpcoder.github.io/Real-time-Bus-Tracker/
 
 MIT License
 
